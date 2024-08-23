@@ -1,0 +1,493 @@
+[
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOllama",
+        "importPath": "langchain_ollama",
+        "description": "langchain_ollama",
+        "isExtraImport": true,
+        "detail": "langchain_ollama",
+        "documentation": {}
+    },
+    {
+        "label": "MessagesState",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "START",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "StateGraph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "ToolNode",
+        "importPath": "langgraph.prebuilt",
+        "description": "langgraph.prebuilt",
+        "isExtraImport": true,
+        "detail": "langgraph.prebuilt",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "process_data",
+        "importPath": "tools",
+        "description": "tools",
+        "isExtraImport": true,
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "importPath": "tools",
+        "description": "tools",
+        "isExtraImport": true,
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "translate",
+        "importPath": "tools",
+        "description": "tools",
+        "isExtraImport": true,
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "query_db",
+        "importPath": "tools",
+        "description": "tools",
+        "isExtraImport": true,
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "chromadb",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "chromadb",
+        "description": "chromadb",
+        "detail": "chromadb",
+        "documentation": {}
+    },
+    {
+        "label": "langgraph",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "langgraph",
+        "description": "langgraph",
+        "detail": "langgraph",
+        "documentation": {}
+    },
+    {
+        "label": "StateGraph",
+        "importPath": "langgraph",
+        "description": "langgraph",
+        "isExtraImport": true,
+        "detail": "langgraph",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "langgraph",
+        "description": "langgraph",
+        "isExtraImport": true,
+        "detail": "langgraph",
+        "documentation": {}
+    },
+    {
+        "label": "AgentState",
+        "importPath": "agent_state",
+        "description": "agent_state",
+        "isExtraImport": true,
+        "detail": "agent_state",
+        "documentation": {}
+    },
+    {
+        "label": "handle_input",
+        "importPath": "src.nodes",
+        "description": "src.nodes",
+        "isExtraImport": true,
+        "detail": "src.nodes",
+        "documentation": {}
+    },
+    {
+        "label": "process_data",
+        "importPath": "src.nodes",
+        "description": "src.nodes",
+        "isExtraImport": true,
+        "detail": "src.nodes",
+        "documentation": {}
+    },
+    {
+        "label": "generate_response",
+        "importPath": "src.nodes",
+        "description": "src.nodes",
+        "isExtraImport": true,
+        "detail": "src.nodes",
+        "documentation": {}
+    },
+    {
+        "label": "sqlite3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlite3",
+        "description": "sqlite3",
+        "detail": "sqlite3",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "tool",
+        "importPath": "langchain_core.tools",
+        "description": "langchain_core.tools",
+        "isExtraImport": true,
+        "detail": "langchain_core.tools",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleTranslator",
+        "importPath": "deep_translator",
+        "description": "deep_translator",
+        "isExtraImport": true,
+        "detail": "deep_translator",
+        "documentation": {}
+    },
+    {
+        "label": "langchain",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "langchain",
+        "description": "langchain",
+        "detail": "langchain",
+        "documentation": {}
+    },
+    {
+        "label": "ollama",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ollama",
+        "description": "ollama",
+        "detail": "ollama",
+        "documentation": {}
+    },
+    {
+        "label": "transformers",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "transformers",
+        "description": "transformers",
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AgentState",
+        "kind": 6,
+        "importPath": "src.agent_state",
+        "description": "src.agent_state",
+        "peekOfCode": "class AgentState:\n    def __init__(self):\n        self.messages: List[Dict[str, Any]] = []\n        self.session_data: Dict[str, Any] = {}\n        self.language: str = 'en'  # Default language set to English\n    def update_messages(self, new_message: Dict[str, Any]):\n        self.messages.append(new_message)",
+        "detail": "src.agent_state",
+        "documentation": {}
+    },
+    {
+        "label": "should_continue",
+        "kind": 2,
+        "importPath": "src.agent_workflow",
+        "description": "src.agent_workflow",
+        "peekOfCode": "def should_continue(state):\n    messages = state[\"messages\"]\n    last_message = messages[-1]\n    # Determine whether to continue based on whether a tool was called\n    if not last_message.tool_calls:\n        return \"end\"\n    else:\n        return \"continue\"\ndef call_model(state):\n    messages = state[\"messages\"]",
+        "detail": "src.agent_workflow",
+        "documentation": {}
+    },
+    {
+        "label": "call_model",
+        "kind": 2,
+        "importPath": "src.agent_workflow",
+        "description": "src.agent_workflow",
+        "peekOfCode": "def call_model(state):\n    messages = state[\"messages\"]\n    response = model.invoke(messages)\n    return {\"messages\": [response]}\n# Define the workflow graph\nworkflow = StateGraph(MessagesState)\n# Define the nodes in the graph\nworkflow.add_node(\"agent\", call_model)\nworkflow.add_node(\"action\", tool_node)\n# Set the entry point as `agent`",
+        "detail": "src.agent_workflow",
+        "documentation": {}
+    },
+    {
+        "label": "tools",
+        "kind": 5,
+        "importPath": "src.agent_workflow",
+        "description": "src.agent_workflow",
+        "peekOfCode": "tools = [search, process_data, translate]\ntool_node = ToolNode(tools)\n# Set up the ChatOllama model\nmodel = ChatOllama(model=\"qwen2:0.5b\")\nmodel = model.bind_tools(tools)\n# Define nodes and conditional edges\ndef should_continue(state):\n    messages = state[\"messages\"]\n    last_message = messages[-1]\n    # Determine whether to continue based on whether a tool was called",
+        "detail": "src.agent_workflow",
+        "documentation": {}
+    },
+    {
+        "label": "tool_node",
+        "kind": 5,
+        "importPath": "src.agent_workflow",
+        "description": "src.agent_workflow",
+        "peekOfCode": "tool_node = ToolNode(tools)\n# Set up the ChatOllama model\nmodel = ChatOllama(model=\"qwen2:0.5b\")\nmodel = model.bind_tools(tools)\n# Define nodes and conditional edges\ndef should_continue(state):\n    messages = state[\"messages\"]\n    last_message = messages[-1]\n    # Determine whether to continue based on whether a tool was called\n    if not last_message.tool_calls:",
+        "detail": "src.agent_workflow",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "src.agent_workflow",
+        "description": "src.agent_workflow",
+        "peekOfCode": "model = ChatOllama(model=\"qwen2:0.5b\")\nmodel = model.bind_tools(tools)\n# Define nodes and conditional edges\ndef should_continue(state):\n    messages = state[\"messages\"]\n    last_message = messages[-1]\n    # Determine whether to continue based on whether a tool was called\n    if not last_message.tool_calls:\n        return \"end\"\n    else:",
+        "detail": "src.agent_workflow",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "src.agent_workflow",
+        "description": "src.agent_workflow",
+        "peekOfCode": "model = model.bind_tools(tools)\n# Define nodes and conditional edges\ndef should_continue(state):\n    messages = state[\"messages\"]\n    last_message = messages[-1]\n    # Determine whether to continue based on whether a tool was called\n    if not last_message.tool_calls:\n        return \"end\"\n    else:\n        return \"continue\"",
+        "detail": "src.agent_workflow",
+        "documentation": {}
+    },
+    {
+        "label": "workflow",
+        "kind": 5,
+        "importPath": "src.agent_workflow",
+        "description": "src.agent_workflow",
+        "peekOfCode": "workflow = StateGraph(MessagesState)\n# Define the nodes in the graph\nworkflow.add_node(\"agent\", call_model)\nworkflow.add_node(\"action\", tool_node)\n# Set the entry point as `agent`\nworkflow.add_edge(START, \"agent\")\n# Add conditional edges from the agent node\nworkflow.add_conditional_edges(\n    \"agent\",\n    should_continue,",
+        "detail": "src.agent_workflow",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "src.agent_workflow",
+        "description": "src.agent_workflow",
+        "peekOfCode": "app = workflow.compile()\n# Save the graph visualization to a file\ngraph_image_path = \"agent_workflow_visualization.png\"\ngraph_bytes = app.get_graph().draw_mermaid_png()\n# Convert bytes to an image and save\nimage = Image.open(io.BytesIO(graph_bytes))\nimage.save(graph_image_path)\n# Display the graph image\nimage.show()\nprint(f\"Graph image saved at {graph_image_path}\")",
+        "detail": "src.agent_workflow",
+        "documentation": {}
+    },
+    {
+        "label": "graph_image_path",
+        "kind": 5,
+        "importPath": "src.agent_workflow",
+        "description": "src.agent_workflow",
+        "peekOfCode": "graph_image_path = \"agent_workflow_visualization.png\"\ngraph_bytes = app.get_graph().draw_mermaid_png()\n# Convert bytes to an image and save\nimage = Image.open(io.BytesIO(graph_bytes))\nimage.save(graph_image_path)\n# Display the graph image\nimage.show()\nprint(f\"Graph image saved at {graph_image_path}\")",
+        "detail": "src.agent_workflow",
+        "documentation": {}
+    },
+    {
+        "label": "graph_bytes",
+        "kind": 5,
+        "importPath": "src.agent_workflow",
+        "description": "src.agent_workflow",
+        "peekOfCode": "graph_bytes = app.get_graph().draw_mermaid_png()\n# Convert bytes to an image and save\nimage = Image.open(io.BytesIO(graph_bytes))\nimage.save(graph_image_path)\n# Display the graph image\nimage.show()\nprint(f\"Graph image saved at {graph_image_path}\")",
+        "detail": "src.agent_workflow",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": "src.agent_workflow",
+        "description": "src.agent_workflow",
+        "peekOfCode": "image = Image.open(io.BytesIO(graph_bytes))\nimage.save(graph_image_path)\n# Display the graph image\nimage.show()\nprint(f\"Graph image saved at {graph_image_path}\")",
+        "detail": "src.agent_workflow",
+        "documentation": {}
+    },
+    {
+        "label": "chroma_client",
+        "kind": 5,
+        "importPath": "src.index",
+        "description": "src.index",
+        "peekOfCode": "chroma_client = chromadb.Client()\n# Create a collection for customer support-related documents\ncollection = chroma_client.create_collection(name=\"customer_support\")\n# Adding customer support-oriented documents with IDs\n# By default, Chroma uses all-MiniLM-L6-v2 for embedding\ncollection.add(\n    documents=[\n        \"Our products come with a 2-year warranty covering manufacturing defects and hardware failures.\",\n        \"Customers can return products within 30 days of purchase if unsatisfied. The product must be in its original condition.\",\n        \"Standard shipping takes 5-7 business days. Express shipping options are available at an additional cost.\",",
+        "detail": "src.index",
+        "documentation": {}
+    },
+    {
+        "label": "collection",
+        "kind": 5,
+        "importPath": "src.index",
+        "description": "src.index",
+        "peekOfCode": "collection = chroma_client.create_collection(name=\"customer_support\")\n# Adding customer support-oriented documents with IDs\n# By default, Chroma uses all-MiniLM-L6-v2 for embedding\ncollection.add(\n    documents=[\n        \"Our products come with a 2-year warranty covering manufacturing defects and hardware failures.\",\n        \"Customers can return products within 30 days of purchase if unsatisfied. The product must be in its original condition.\",\n        \"Standard shipping takes 5-7 business days. Express shipping options are available at an additional cost.\",\n        \"Technical support is available 24/7 through our helpline and chat service for troubleshooting and product queries.\",\n        \"Software updates for products are released quarterly to enhance functionality and security.\",",
+        "detail": "src.index",
+        "documentation": {}
+    },
+    {
+        "label": "results",
+        "kind": 5,
+        "importPath": "src.index",
+        "description": "src.index",
+        "peekOfCode": "results = collection.query(\n    query_texts=[\"What is the return policy?\"],  # Chroma will embed and query this text for you\n    n_results=1  # how many results to return\n)\nprint(\"Query result:\", results)",
+        "detail": "src.index",
+        "documentation": {}
+    },
+    {
+        "label": "graph",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "graph = StateGraph(AgentState)\n# Adding nodes to the graph using imported functions\ngraph.add_node(\"input\", handle_input)\ngraph.add_node(\"process\", process_data)\ngraph.add_node(\"response\", generate_response)\n# Define edges to control flow between nodes\ngraph.add_edge(\"input\", \"process\")\ngraph.add_edge(\"process\", \"response\")\ngraph.set_entry_point(\"input\")\ngraph.add_edge(\"response\", END)",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "compiled_graph",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "compiled_graph = graph.compile()\n# Example test invocation\ntest_state = AgentState()\ntest_state.messages.append({'content': 'Hello, how can I help you?'})\ncompiled_graph.invoke(test_state)",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "test_state",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "test_state = AgentState()\ntest_state.messages.append({'content': 'Hello, how can I help you?'})\ncompiled_graph.invoke(test_state)",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "handle_input",
+        "kind": 2,
+        "importPath": "src.nodes",
+        "description": "src.nodes",
+        "peekOfCode": "def handle_input(state):\n    print(\"Input received:\", state.messages[-1]['content'])\n    # Add logic to process the input\n    return state\ndef process_data(state):\n    # Example: Fetching response based on user's last query\n    user_query = state.messages[-1]['content']  # Assuming the last message contains the query\n    response = query_db(\"SELECT response FROM users WHERE query = ?\", [user_query], one=True)\n    if response:\n        state.session_data['response'] = response[0]  # Assuming 'response' is the fetched column",
+        "detail": "src.nodes",
+        "documentation": {}
+    },
+    {
+        "label": "process_data",
+        "kind": 2,
+        "importPath": "src.nodes",
+        "description": "src.nodes",
+        "peekOfCode": "def process_data(state):\n    # Example: Fetching response based on user's last query\n    user_query = state.messages[-1]['content']  # Assuming the last message contains the query\n    response = query_db(\"SELECT response FROM users WHERE query = ?\", [user_query], one=True)\n    if response:\n        state.session_data['response'] = response[0]  # Assuming 'response' is the fetched column\n    else:\n        state.session_data['response'] = \"Sorry, I can't help with that right now.\"\n    return state\ndef generate_response(state):",
+        "detail": "src.nodes",
+        "documentation": {}
+    },
+    {
+        "label": "generate_response",
+        "kind": 2,
+        "importPath": "src.nodes",
+        "description": "src.nodes",
+        "peekOfCode": "def generate_response(state):\n    response_data = state.session_data.get('response')\n    if response_data:\n        response_message = f\"I found something that might help: {response_data}\"\n    else:\n        response_message = \"I couldn't find any information related to your query. Can I help with something else?\"\n    state.messages.append({'content': response_message})\n    return state",
+        "detail": "src.nodes",
+        "documentation": {}
+    },
+    {
+        "label": "create_connection",
+        "kind": 2,
+        "importPath": "src.setup_db",
+        "description": "src.setup_db",
+        "peekOfCode": "def create_connection(db_file):\n    \"\"\" Create a database connection to a SQLite database \"\"\"\n    conn = None\n    try:\n        conn = sqlite3.connect(db_file)\n        print(\"SQLite version:\", sqlite3.version)\n    except sqlite3.Error as e:\n        print(\"Error connecting to database:\", e)\n    finally:\n        if conn:",
+        "detail": "src.setup_db",
+        "documentation": {}
+    },
+    {
+        "label": "create_table",
+        "kind": 2,
+        "importPath": "src.setup_db",
+        "description": "src.setup_db",
+        "peekOfCode": "def create_table():\n    conn = sqlite3.connect('app.db')\n    try:\n        c = conn.cursor()\n        # Create table\n        c.execute('''CREATE TABLE IF NOT EXISTS users\n                     (id integer PRIMARY KEY, name text, email text, query text, response text)''')\n        # Insert a row of data\n        c.executescript(\"\"\"\n            INSERT INTO users VALUES (3, 'Alice Johnson', 'alice@example.com', 'Account help', 'Please verify your email address to reset your password');",
+        "detail": "src.setup_db",
+        "documentation": {}
+    },
+    {
+        "label": "query_db",
+        "kind": 2,
+        "importPath": "src.tools",
+        "description": "src.tools",
+        "peekOfCode": "def query_db(query, args=(), one=False):\n    conn = sqlite3.connect('database.db')\n    cur = conn.cursor()\n    cur.execute(query, args)\n    rv = cur.fetchall()\n    conn.close()\n    return (rv[0] if rv else None) if one else rv\n# Define the process_data as a tool\n@tool\ndef process_data(user_query: str):",
+        "detail": "src.tools",
+        "documentation": {}
+    },
+    {
+        "label": "process_data",
+        "kind": 2,
+        "importPath": "src.tools",
+        "description": "src.tools",
+        "peekOfCode": "def process_data(user_query: str):\n    \"\"\"Fetch a response from the database based on the user's query.\"\"\"\n    response = query_db(\"SELECT response FROM users WHERE query = ?\", [user_query], one=True)\n    if response:\n        return response[0]  # Return the fetched response\n    else:\n        return \"Sorry, I can't help with that right now.\"\n# Real search function using Google Custom Search API\n@tool\ndef search(query: str):",
+        "detail": "src.tools",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "src.tools",
+        "description": "src.tools",
+        "peekOfCode": "def search(query: str):\n    \"\"\"Perform a real web search using Google Custom Search API.\"\"\"\n    api_key = \"YOUR_GOOGLE_API_KEY\"  # Replace with your actual API key\n    search_engine_id = \"YOUR_SEARCH_ENGINE_ID\"  # Replace with your actual Search Engine ID\n    url = \"https://www.googleapis.com/customsearch/v1\"\n    params = {\n        \"key\": api_key,\n        \"cx\": search_engine_id,\n        \"q\": query,\n        \"num\": 1  # Number of results to return",
+        "detail": "src.tools",
+        "documentation": {}
+    },
+    {
+        "label": "translate",
+        "kind": 2,
+        "importPath": "src.tools",
+        "description": "src.tools",
+        "peekOfCode": "def translate(text: str, dest_language: str = 'en'):\n    \"\"\"Translate text to the specified language using deep-translator.\"\"\"\n    translation = GoogleTranslator(source='auto', target=dest_language).translate(text)\n    return translation",
+        "detail": "src.tools",
+        "documentation": {}
+    }
+]
